@@ -192,12 +192,24 @@ The system follows a layered architecture consisting of:
                     │       MySQL Database    │
                     └─────────────────────────┘
 
-<img width="1919" height="975" alt="landingpage" src="https://github.com/user-attachments/assets/849a3ddb-7708-40db-ba91-0c44cab74a0d" />
-<img width="1909" height="932" alt="about" src="https://github.com/user-attachments/assets/9e2d9acf-8395-4fcb-8286-469eaab6a34e" />
-<img width="1919" height="950" alt="Screenshot from 2026-09-02 23-56-38" src="https://github.com/user-attachments/assets/a8b01af3-c9b3-4ed3-a4bd-d987acf059d5" />
-<img width="1919" height="959" alt="Screenshot from 2026-09-02 23-58-12" src="https://github.com/user-attachments/assets/5d43d633-1b14-4f43-8c16-a4c6be6fb8dc" />
-<img width="1917" height="875" alt="Screenshot from 2026-09-02 23-59-21" src="https://github.com/user-attachments/assets/07873730-7cea-4443-8339-9178a14a01c0" />
-<img width="1919" height="859" alt="databasepng1" src="https://github.com/user-attachments/assets/1d068c69-f634-4629-aee9-7c15e2b2b650" />
+
+landing page
+<img width="1919" height="975" alt="landingpage" src="https://github.com/user-attachments/assets/1464c480-27c4-48b0-b2a7-f682b8209235" />
+about page
+<img width="1909" height="932" alt="about" src="https://github.com/user-attachments/assets/4ffbb292-8cf8-4315-ade2-459f933fae91" />
+login page
+<img width="1919" height="950" alt="Screenshot from 2026-09-02 23-56-38" src="https://github.com/user-attachments/assets/fe6bc886-e098-481d-a836-a397363319f2" />
+Bills
+<img width="1919" height="952" alt="Screenshot from 2026-09-02 23-59-37" src="https://github.com/user-attachments/assets/5cff4d4e-5510-4611-ba48-bc5bfa235fb9" />
+staff
+<img width="1905" height="956" alt="Screenshot from 2026-09-03 00-00-39" src="https://github.com/user-attachments/assets/7e4d8c17-c902-479d-b79a-f347da483168" />
+databases
+<img width="1919" height="859" alt="databasepng1" src="https://github.com/user-attachments/assets/a32553e1-bf5f-44a0-b787-2c60fe16338e" />
+
+
+
+
+
 
 
 
