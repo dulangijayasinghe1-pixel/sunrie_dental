@@ -197,6 +197,8 @@ The system follows a layered architecture consisting of:
 <img width="1919" height="950" alt="Screenshot from 2026-09-02 23-56-38" src="https://github.com/user-attachments/assets/a8b01af3-c9b3-4ed3-a4bd-d987acf059d5" />
 <img width="1919" height="959" alt="Screenshot from 2026-09-02 23-58-12" src="https://github.com/user-attachments/assets/5d43d633-1b14-4f43-8c16-a4c6be6fb8dc" />
 <img width="1917" height="875" alt="Screenshot from 2026-09-02 23-59-21" src="https://github.com/user-attachments/assets/07873730-7cea-4443-8339-9178a14a01c0" />
+<img width="1919" height="859" alt="databasepng1" src="https://github.com/user-attachments/assets/1d068c69-f634-4629-aee9-7c15e2b2b650" />
+
 
 
 
