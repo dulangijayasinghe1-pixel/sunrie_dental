@@ -1,7 +1,7 @@
 # 🦷 Sunrise Dental Clinic Management System
 
 <p align="center">
-  <img src="public/logo.png" alt="Sunrise Dental Logo" width="120"/>
+  <img src="public/thooth.png" alt="Sunrise Dental Logo" width="120"/>
 </p>
 
 <h3 align="center">A Modern Dental Clinic Management System</h3>
