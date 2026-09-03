@@ -191,6 +191,8 @@ The system follows a layered architecture consisting of:
                     ┌─────────────────────────┐
                     │       MySQL Database    │
                     └─────────────────────────┘
+```
+
 
 ## 📸 Screenshots
 
