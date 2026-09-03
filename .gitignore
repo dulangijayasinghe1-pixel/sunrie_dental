@@ -2,6 +2,10 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
+# Node / React
+node_modules/
+dist/
+
 # IDE
 .idea/
 .vscode/
