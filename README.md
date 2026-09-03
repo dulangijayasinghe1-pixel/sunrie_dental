@@ -1,8 +1,8 @@
 # 🦷 Sunrise Dental Clinic Management System
 
-<p align="center">
+<!-- <p align="center">
   <img src="public/thooth.png" alt="Sunrise Dental Logo" width="120"/>
-</p>
+</p> -->
 
 <h3 align="center">A Modern Dental Clinic Management System</h3>
 
@@ -191,3 +191,17 @@ The system follows a layered architecture consisting of:
                     ┌─────────────────────────┐
                     │       MySQL Database    │
                     └─────────────────────────┘
+
+<img width="1919" height="975" alt="landingpage" src="https://github.com/user-attachments/assets/849a3ddb-7708-40db-ba91-0c44cab74a0d" />
+<img width="1909" height="932" alt="about" src="https://github.com/user-attachments/assets/9e2d9acf-8395-4fcb-8286-469eaab6a34e" />
+<img width="1919" height="950" alt="Screenshot from 2026-09-02 23-56-38" src="https://github.com/user-attachments/assets/a8b01af3-c9b3-4ed3-a4bd-d987acf059d5" />
+<img width="1919" height="959" alt="Screenshot from 2026-09-02 23-58-12" src="https://github.com/user-attachments/assets/5d43d633-1b14-4f43-8c16-a4c6be6fb8dc" />
+<img width="1917" height="875" alt="Screenshot from 2026-09-02 23-59-21" src="https://github.com/user-attachments/assets/07873730-7cea-4443-8339-9178a14a01c0" />
+
+
+
+
+
+
+
+
