@@ -192,19 +192,31 @@ The system follows a layered architecture consisting of:
                     │       MySQL Database    │
                     └─────────────────────────┘
 
+## 📸 Screenshots
 
-landing page
-<img width="1919" height="975" alt="landingpage" src="https://github.com/user-attachments/assets/1464c480-27c4-48b0-b2a7-f682b8209235" />
-about page
-<img width="1909" height="932" alt="about" src="https://github.com/user-attachments/assets/4ffbb292-8cf8-4315-ade2-459f933fae91" />
-login page
-<img width="1919" height="950" alt="Screenshot from 2026-09-02 23-56-38" src="https://github.com/user-attachments/assets/fe6bc886-e098-481d-a836-a397363319f2" />
-Bills
-<img width="1919" height="952" alt="Screenshot from 2026-09-02 23-59-37" src="https://github.com/user-attachments/assets/5cff4d4e-5510-4611-ba48-bc5bfa235fb9" />
-staff
-<img width="1905" height="956" alt="Screenshot from 2026-09-03 00-00-39" src="https://github.com/user-attachments/assets/7e4d8c17-c902-479d-b79a-f347da483168" />
-databases
-<img width="1919" height="859" alt="databasepng1" src="https://github.com/user-attachments/assets/a32553e1-bf5f-44a0-b787-2c60fe16338e" />
+### 🏠 Landing Page
+
+![Landing Page](https://github.com/user-attachments/assets/1464c480-27c4-48b0-b2a7-f682b8209235)
+
+### ℹ️ About Page
+
+![About Page](https://github.com/user-attachments/assets/4ffbb292-8cf8-4315-ade2-459f933fae91)
+
+### 🔐 Login Page
+
+![Login Page](https://github.com/user-attachments/assets/fe6bc886-e098-481d-a836-a397363319f2)
+
+### 💳 Bills
+
+![Bills](https://github.com/user-attachments/assets/5cff4d4e-5510-4611-ba48-bc5bfa235fb9)
+
+### 👤 Staff
+
+![Staff](https://github.com/user-attachments/assets/7e4d8c17-c902-479d-b79a-f347da483168)
+
+### 🗄️ Database
+
+![Database](https://github.com/user-attachments/assets/a32553e1-bf5f-44a0-b787-2c60fe16338e)
 
 
 
